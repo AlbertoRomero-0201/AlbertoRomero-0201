@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text="sudo rm -rf /*"🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=sudo%20rm%20rf%20/*&fontSize=90" />
